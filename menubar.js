@@ -55,7 +55,8 @@ body {margin:0;}\
 <font face="Arial">\
 <div class="topnav" id="myTopnav">\
   <a href="/index">Home</a>\
-  <a href="/shop/index.html">Shop</a>\
+  <a href="/changelog">Shop</a>\
+  <a href="http://stebulous.xyz/forums/">Forums</a>\
   <a href="/contact">Contact</a>\
   <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>\
 </div>\
