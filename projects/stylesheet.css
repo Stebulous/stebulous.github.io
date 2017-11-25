@@ -15,3 +15,20 @@ body {
     background-color: white;
     color: #313332;
 }
+
+.commands-title {
+    color: black;
+    background-color: white;
+    border-style: solid;
+    border-color:black;
+    border-width: 2px;
+
+}
+
+.commands-box {
+    color:black;
+    background-color: white;
+    border-style: solid;
+    border-color:black;
+    border-width: 2px;
+}
