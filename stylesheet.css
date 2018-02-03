@@ -34,6 +34,7 @@ body {
     border-width: 2px;
 }
 
+/* /r/PCMR FLair thing
 .steb:before {
     background: #00A95B;
     content: 'Stebulous';
@@ -59,7 +60,7 @@ body {
 .steb:hover:before {
     margin-right: 3px;
 }
-
+*/
 .footer {
     position: fixed;
     left: 0;
@@ -73,8 +74,8 @@ body {
 /* The alert message box */
 .alert {
     padding: 20px;
-    background-color: #f4e736; /* Red */
-    color: white;
+    background-color: #d6b10b; /* Red */
+    color: rgb(0, 0, 0);
     margin-bottom: 15px;
 }
 
