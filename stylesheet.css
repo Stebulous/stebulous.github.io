@@ -74,8 +74,8 @@ body {
 /* The alert message box */
 .alert {
     padding: 20px;
-    background-color: #d6b10b; /* Red */
-    color: rgb(0, 0, 0);
+    background-color: #0b63d6; /* Red */
+    color: rgb(255, 255, 255);
     margin-bottom: 15px;
 }
 
