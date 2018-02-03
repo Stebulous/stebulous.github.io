@@ -22,15 +22,40 @@ body {
     color: black;
     background-color: white;
     border-style: solid;
-    border-color:black;
+    border-color: black;
     border-width: 2px;
-
 }
 
 .commands-box {
-    color:black;
+    color: black;
     background-color: white;
     border-style: solid;
-    border-color:black;
+    border-color: black;
     border-width: 2px;
+}
+
+.steb:before {
+    background: #00A95B;
+    content: 'Stebulous';
+    display: inline-block;
+    font-size: 10px;
+    padding: 2px 4px;
+}
+
+.steb {
+    background: rgb(2, 119, 64);
+    color: rgb(255, 255, 255);
+    font-size: 0;
+    padding: 0 3px 0 0;
+    -webkit-transition: 300ms;
+    transition: 300ms;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.steb:hover {
+    font-size: 10px;
+}
+.steb:hover:before {
+    margin-right: 3px;
 }
