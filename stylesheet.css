@@ -2,7 +2,7 @@ body {
     color: black;
     font-family: arial;
     background-image: url(./images/pattern.svg);
-    background-repeat: none;
+    background-repeat: no-repeat;
 }
 
 .button {
