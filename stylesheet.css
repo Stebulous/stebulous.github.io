@@ -1,6 +1,7 @@
 body {
     color: black;
     font-family: arial;
+    background-image: url(./images/pattern.svg);
 }
 
 .button {
